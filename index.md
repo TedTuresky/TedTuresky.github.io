@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: katie-home
 title: "Home"
 ---
 
