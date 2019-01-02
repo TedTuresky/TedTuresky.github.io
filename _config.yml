@@ -22,7 +22,8 @@ minimal_theme: true        # radically minimalistic theme
 
 
 navigation:                  # show navigation links in the header
- # - about.md
+  - about.md
+  - index.html
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
   github: "https://github.com/kschuler"
