@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6
 article a
   color: $link-color
 
-article header a, article footer a
+header a, footer a
   font-weight: inherit
   color: inherit
 
@@ -41,10 +41,20 @@ blockquote
   padding-left: 1.5em
   margin: 0
 
+body, aside, main
+  flex-direction: column
+
+main, article
+  flex-grow: 1
+
 img
   max-width: 100%
   height: auto
   border-radius: 2px
 
 figure
-  margin: 1em 0
+  display: inline-block
+  margin: 10px
+
+figure figcaption
+  text-align: center

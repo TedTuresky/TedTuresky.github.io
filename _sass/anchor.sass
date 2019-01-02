@@ -4,12 +4,13 @@ a.ghost, a.gray, a.disabled
 
 a.ghost
   background: $link-color
-  box-shadow: 0 0 0 2px $link-color inset
+  border: 2px solid $link-color
   color: white
   transition: .1s
 
 a.ghost:hover
   background: transparent
+  border-color: $link-color
   color: $link-color
 
 a.gray, a.disabled
