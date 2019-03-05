@@ -1,7 +1,16 @@
+---
+layout: katie-home
+title: "Go"
+---
 
+# Work
 
+- [GMail](https://mail.google.com)
+- [Google Calendar](https://calendar.google.com)
 
-> Written with [StackEdit](https://stackedit.io/).
+# Writing
+- [Stack Edit]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTg0MjgxODEyMF19
 -->
