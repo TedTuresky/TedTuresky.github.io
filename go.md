@@ -15,13 +15,14 @@ title: "Go"
 
 # Research
 - [REDCap](http://redcap.med.upenn.edu)
+- [Github](http://github.com)
 
 # Storage and backup
 
 - Dropbox
-- Google nearline
+- Google Near Line
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjYwMTM1N119
+eyJoaXN0b3J5IjpbMTY4MTg2OTM3NF19
 -->
