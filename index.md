@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-I'm a post-doctoral fellow in the Laboratories of Cognitive Neuroscience assistant professor in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School](/childlanglab).  
+I'm a post-doctoral fellow in the in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School](/childlanglab).  
 
 I teach a graduate seminar in [psycholinguistics](/ling607), an undergraduate course in [language and the brain](http://moonshots.langandbrain.com/) and a crossover course in neurolinguistics (links coming soon).
 
