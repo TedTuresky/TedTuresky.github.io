@@ -1,10 +1,10 @@
 ---
-layout: katie-home
+layout: teddy-home
 title: "Home"
 ---
 
 
-I'm an assistant professor in the [Linguistics Department](www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](/childlanglab).  
+I'm a post-doctoral fellow in the Laboratories of Cognitive Neuroscience assistant professor in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School](/childlanglab).  
 
 I teach a graduate seminar in [psycholinguistics](/ling607), an undergraduate course in [language and the brain](http://moonshots.langandbrain.com/) and a crossover course in neurolinguistics (links coming soon).
 
