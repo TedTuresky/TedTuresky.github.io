@@ -1,6 +1,6 @@
-title: "Ted K Turesky"
+title: "Kathryn Schuler"
 author: ""
-description: "At Boston Children's Hospital/Harvard Medical School" #"At the University of Pennsylvania"
+description: "At the University of Pennsylvania"
 
 # Jekyll settings
 #permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -25,8 +25,8 @@ navigation:                  # show navigation links in the header
  # - about.md
 
 icons:                       # show icons in the header, for all possible icons see http://fontawesome.io/icons/
-  github: "https://github.com/tkt"
-#  twitter: "https://twitter.com/KathrynSchuler"
+  github: "https://github.com/kschuler"
+  twitter: "https://twitter.com/KathrynSchuler"
   flask: "http://kschuler.github.io/childlanglabwiki"
 #  feed: ""
 
