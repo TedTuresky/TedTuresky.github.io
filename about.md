@@ -1,6 +1,6 @@
 ---
 layout: katie-home
-title: "Archive"
+title: "About"
 ---
 
 
