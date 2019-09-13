@@ -4,11 +4,11 @@ title: "Home"
 ---
 
 
-I'm a post-doctoral fellow in the in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School](/childlanglab).  
+I'm a post-doctoral fellow in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School]().  
 
-I teach a graduate seminar in [psycholinguistics](/ling607), an undergraduate course in [language and the brain](http://moonshots.langandbrain.com/) and a crossover course in neurolinguistics (links coming soon).
+I investigate how poverty -- and the biological and psychosocial hazards accompanying it -- affects brain structure and function using MRI modalities. You can read more about the project [here](https://www.lcn-bean.org) and in [Nature](https://www.nature.com/news/how-poverty-affects-the-brain-1.22280).
 
-View my CV [here](https://www.dropbox.com/s/34x7jyla389eurp/kschuler-cv-feb2019.pdf?dl=0).
+Please view my CV [here](https://georgetown.box.com/s/6m7rd6txxt4mm0qeuenp7gaymmpza3ka).
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxOTc0MjMyOCwxODcwOTgyMzI2LDc4Nz
