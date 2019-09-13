@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 
-I'm a post-doctoral fellow in the [Laboratories of Cognitive Neuroscience](www.ling.upenn.edu) at [Boston Children's Hospital/Harvard Medical School]().  
+I'm a post-doctoral fellow in the [Laboratories of Cognitive Neuroscience](http://www.childrenshospital.org/research/labs/laboratories-of-cognitive-neuroscience) at [Boston Children's Hospital/Harvard Medical School](https://hms.harvard.edu/affiliates/boston-childrens-hospital).  
 
 I investigate how poverty -- and the biological and psychosocial hazards accompanying it -- affects brain structure and function using MRI modalities. You can read more about the project [here](https://www.lcn-bean.org) and in [Nature](https://www.nature.com/news/how-poverty-affects-the-brain-1.22280).
 
