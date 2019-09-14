@@ -5,7 +5,7 @@
   @return rgba(mix(#282828, #fff), $percent / 100)
 
 $font-size: calc(0.7em + 0.25vw)
-//.8 +.25
+//.8 +.25 This controls the font size for the whole page
 $font-weight: 300
 $heading-weight: 400
 $line-height: 1.5
@@ -28,7 +28,7 @@ body
 
 h1
   font-size: 2.5em
-  //1.85
+  //1.85 This controls the font size for the title only (my name)
 
 table
   width: 100%
@@ -48,8 +48,7 @@ article header h1
   margin-bottom: 0.2em
 
 article footer
-  padding: 1em 10
-    //1em 0
+  padding: 1em 0
 
 {% unless site.hide_title %}
 {% if site.navigation and site.icons %}
