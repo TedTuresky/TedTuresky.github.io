@@ -4,9 +4,7 @@ title: "About"
 ---
 
 Post-Doctoral Fellowship, Boston Children’s Hospital/Harvard Medical School
-
 Ph.D., Georgetown University
-
 B.A., Colorado College
 
 
