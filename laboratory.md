@@ -1,11 +1,13 @@
+---
+layout: katie-home
+title: "Laboratory Skills"
+---
+
+**Languages**  
+Matlab  
+Bash shell
+html  
 
 
-
-
-
-Languages  
-Matlab, Bash shell, HTML
-
-
-Analysis Toolkitss  
+**Analysis Toolkits**  
 SPM, FSL, ANTs, AFQ, FreeSurfer, CONN, GingerALE, Marsbar, REX, VBM, Art
