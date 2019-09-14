@@ -5,7 +5,7 @@ title: "Laboratory Skills"
 
 **Languages**  
 Matlab  
-Bash shell
+Bash shell  
 html  
 
 
