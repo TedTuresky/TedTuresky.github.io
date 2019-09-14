@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: katie-home
 title: "Collaborators"
 ---
 
