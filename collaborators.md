@@ -8,15 +8,15 @@ Nadine Gaab
 Charles Nelson
 
 
-Bangladesh -
-Sean Deoni, Brown University
-Dick Aslin, Haskins Institute, Yale University, University of Connecticut
-William Petri, University of Virginia
-Lauren Emberson, Princeton University
-Sara
-Sigi
-Sharia Haque Kakon
-Nazrul Islam
+On the Bangladesh Early Adversity Neuroimaging study -  
+Sean Deoni, Brown University  
+Dick Aslin, Haskins Institute, Yale University, University of Connecticut  
+William Petri, University of Virginia  
+Lauren Emberson, Princeton University  
+Sara  
+Sigi  
+Sharia Haque Kakon  
+Nazrul Islam  
 
 
 BOLD/Baby
