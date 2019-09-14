@@ -17,7 +17,7 @@ Turesky TK, Olulade OA, Luetje MM, Eden GF (2017) An fMRI study of the motor sys
 
 Turesky TK, Turkeltaub PE, Eden GF (2016) An activation likelihood estimation meta-analysis study of simple motor movements in older and young adults, Frontiers in Aging Neuroscience 8, 238.
 
-Leaver AM*, Turesky TK*, Seydell-Greenwald A, Morgan S, Kim HJ, and Rauschecker JP (2016) Intrinsic network activity in tinnitus investigated using functional MRI, Human Brain Mapping 37(8), 2717-35. *equal contributions.
+Leaver AM\*, Turesky TK\*, Seydell-Greenwald A, Morgan S, Kim HJ, and Rauschecker JP (2016) Intrinsic network activity in tinnitus investigated using functional MRI, Human Brain Mapping 37(8), 2717-35. *equal contributions.
 
 Seydell-Greenwald A, Raven E, Leaver AM, Turesky TK, Rauschecker JP (2014) Diffusion imaging of auditory and auditory-limbic connectivity in tinnitus - preliminary evidence and methodological challenges, Neural Plasticity 2014, 1-16.
 
