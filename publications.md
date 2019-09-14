@@ -5,11 +5,11 @@ title: "Publications"
 
 ### **Peer-Reviewed Papers**
 
-##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (invited; under review).
+#### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (invited; under review).
 
-##### Smith C, Turesky TK, Turesky, EF, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
+#### Smith C, Turesky TK, Turesky, EF, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
 
-##### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Haque R, Kakon SH, Islam N, Petri WA, Gagoski B, Nelson CA, Gaab N (2019) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants: a feasibility and pilot study, Developmental Science e12841. 
+#### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Haque R, Kakon SH, Islam N, Petri WA, Gagoski B, Nelson CA, Gaab N (2019) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants: a feasibility and pilot study, Developmental Science e12841. 
 
 Gaab N, Turesky TK, Sanfilippino J (2019) Early identification of children at-risk for developmental dyslexia and reading impairments: neurobiology, screening, evidence- based response to screening, and the use of educational technology (chapter in book). McCardle P (Ed.). Dyslexia. (in press).
 
