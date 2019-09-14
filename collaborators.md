@@ -1,26 +1,31 @@
 ---
-layout: katie-home
+layout: page
 title: "Collaborators"
 ---
 
-Advisors - 
-Nadine Gaab
-Charles Nelson
+### Advisor  
+Nadine Gaab, Boston Children's Hospital/Harvard Medical School   
 
-
-On the Bangladesh Early Adversity Neuroimaging study -  
-Sean Deoni, Brown University  
-Dick Aslin, Haskins Institute, Yale University, University of Connecticut  
+### On the Bangladesh Early Adversity Neuroimaging study  
+Charles Nelson, Harvard University  
+Sarah Jensen, Boston College  
+Wanze Xie, Boston Children's Hospital/Harvard Medical School  
+Laura Pirazzoli, Boston Children's Hospital/Harvard Medical School  
 William Petri, University of Virginia  
-Lauren Emberson, Princeton University  
-Sara  
-Sigi  
-Sharia Haque Kakon  
-Nazrul Islam  
+Rashidul Haque, International Centre for Diarrhoeal Disease Research, Bangladesh  
+Shahria Hafiz Kakon, International Centre for Diarrhoeal Disease Research, Bangladesh  
+Nazrul Islam, National Institutes of Neurosciences Hospital, Bangladesh  
 
-
-BOLD/Baby
-BOLD
+### Bill and Melinda Gates Foundation  
+Sharon Bergquist, Gates Foundation  
+Sean Deoni, Brown University  
+Richard Aslin, Yale University  
+Sara Sanchez-Alonso, Yale University  
+Claire Kabdebon, Yale University  
+Lauren Emberson, Princeton University   
+Sagi Jaffe-Dax, Princeton University  
+Ted Grasela, Cognigen Corporation
+  
 
 
 
