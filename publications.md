@@ -3,7 +3,7 @@ layout: katie-home
 title: "Publications"
 ---
 
-**Peer-Reviewed Papers
+**Peer-Reviewed Papers**
 
 Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (invited; under review).
 
