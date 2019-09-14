@@ -3,8 +3,8 @@ layout: katie-home
 title: "About"
 ---
 
-Post-Doctoral Fellowship, Boston Children’s Hospital/Harvard Medical School
-Ph.D., Georgetown University
+Post-Doctoral Fellowship, Boston Children’s Hospital/Harvard Medical School  
+Ph.D., Georgetown University  
 B.A., Colorado College
 
 I am a post-doctoral fellow in developmental cognitive neuroscience at Boston Children’s Hospital/Harvard Medical School. Since joining the [Gaab Lab](https://www.gaablab.com/) and the [Laboratories of Cognitive Neuroscience](http://www.childrenshospital.org/research/labs/laboratories-of-cognitive-neuroscience), I have investigated how poverty — and the biological and psychosocial hazards associated with it — affects brain development using structural and functional MRI techniques. Prior to that, I examined the motor system in the context of development, aging, and dyslexia, and the auditory system in the context of tinnitus, a condition characterized by the perception of sound in the absence of an external source. 
