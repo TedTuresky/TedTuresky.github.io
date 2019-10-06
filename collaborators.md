@@ -6,7 +6,8 @@ title: "Collaborators"
 <span style="font-weight: bold; font-size:1em;">Advisor</span>  
 Nadine Gaab, Boston Children's Hospital/Harvard Medical School   
   
-
+  
+  
 <span style="font-weight: bold; font-size:1em;">On the Bangladesh Early Adversity Neuroimaging Study</span>  
 Charles Nelson, Harvard University  
 Sarah Jensen, Boston College  
@@ -17,7 +18,8 @@ Rashidul Haque, International Centre for Diarrhoeal Disease Research, Bangladesh
 Shahria Hafiz Kakon, International Centre for Diarrhoeal Disease Research, Bangladesh  
 Nazrul Islam, National Institutes of Neurosciences Hospital, Bangladesh  
   
-
+  
+  
 <span style="font-weight: bold; font-size:1em;">Bill and Melinda Gates Foundation</span>  
 Sharon Bergquist, Gates Foundation  
 Sean Deoni, Brown University  
