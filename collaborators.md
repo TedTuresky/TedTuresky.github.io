@@ -3,7 +3,7 @@ layout: katie-home
 title: "Collaborators"
 ---
 
-### Advisor  
+<span style="font-size:2em;">Advisor!</span>  
 Nadine Gaab, Boston Children's Hospital/Harvard Medical School   
 
 
@@ -17,7 +17,6 @@ Rashidul Haque, International Centre for Diarrhoeal Disease Research, Bangladesh
 Shahria Hafiz Kakon, International Centre for Diarrhoeal Disease Research, Bangladesh  
 Nazrul Islam, National Institutes of Neurosciences Hospital, Bangladesh  
 
-<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ### Bill and Melinda Gates Foundation  
 Sharon Bergquist, Gates Foundation  
 Sean Deoni, Brown University  
