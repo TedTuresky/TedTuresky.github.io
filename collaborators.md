@@ -3,7 +3,7 @@ layout: katie-home
 title: "Collaborators"
 ---
 
-<span style="font-size:2em;">Advisor!</span>  
+<span style="font-weight: bold; font-size:1.5em;">Advisor</span>  
 Nadine Gaab, Boston Children's Hospital/Harvard Medical School   
 
 
