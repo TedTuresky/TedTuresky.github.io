@@ -4,7 +4,6 @@ title: "Laboratory Skills"
 ---
 
 <span style="font-weight: bold; font-size:1em;">Languages</span>  
-**Languages**  
 Matlab  
 Bash shell  
 html  
