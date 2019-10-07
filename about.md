@@ -1,5 +1,5 @@
 ---
-layout: tkt-about
+layout: tkt-about2
 title: "About"
 ---
 
