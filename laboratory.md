@@ -9,4 +9,4 @@ Bash shell
 html  
 
 <span style="font-weight: bold; font-size:1em;">Analysis Toolkits</span>  
-SPM, FSL, ANTs, AFQ, FreeSurfer, CONN, GingerALE, Marsbar, REX, VBM, Art
+AFQ, ANTs, Art, ANTs, AFQ, BrainVoyager, CONN, FreeSurfer, FSL, GingerALE, Jupyter Notebook, Marsbar, REX, scikit-learn, SPM, VBM
