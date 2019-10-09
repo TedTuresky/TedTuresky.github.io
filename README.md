@@ -1,6 +1,10 @@
 # Notes:
 fix collaborators page  
 add or remove lab skills - some experience with python
+For your skills I would make it more clear which imaging modality data analysis those tools are for
+You can analyze what kind of data? Structural mri? t1? Dwi? Fmri? Not clear from the skills page. People would have to know those softwares well. I know you mention in previous pages which modalities but here would be nice too
+Also your intro: investigate how poverty affects brain development using MRI modalities. You can read more about the project here and in Nature.
+But that’s not all you do, that’s just one project. Why do you emphasize that there? Is there not a more general intro you could give about yourself? And then direct the reader to all your projects?
 
 # Contrast
 
