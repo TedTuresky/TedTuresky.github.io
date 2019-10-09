@@ -4,9 +4,9 @@ title: "Laboratory Skills"
 ---
 
 <span style="font-weight: bold; font-size:1em;">Magnetic Resonance Imaging (MRI) Modalities</span>  
-Structural MRI
-Block- and event-related fMRI
-Resting-state fMRI
+Structural MRI  
+Block- and event-related functional MRI (fMRI)   
+Resting-state fMRI  
 Diffusion tensor imaging
 
 <span style="font-weight: bold; font-size:1em;">Data Processing Techniques</span>  
