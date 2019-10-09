@@ -25,7 +25,8 @@ Sharon Bergquist, Gates Foundation
 Sean Deoni, Brown University  
 Richard Aslin, Yale University  
 Lauren Emberson, Princeton University   
-Ted Grasela, Cognigen Corporation
+Ted Grasela, Cognigen Corporation  
+Jolijn Vanderauwera, KU Leuven
 
 
 <!--
