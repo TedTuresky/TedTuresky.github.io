@@ -3,7 +3,6 @@ fix collaborators page
 
 add or remove lab skills - some experience with python. how do I add statistical methods - e.g., mediation, moderation, machine-learning?? - to the laboratory page.
 
-Also your intro: investigate how poverty affects brain development using MRI modalities. You can read more about the project here and in Nature. But that’s not all you do, that’s just one project. Why do you emphasize that there? Is there not a more general intro you could give about yourself? And then direct the reader to all your projects?
 
 # Contrast
 
