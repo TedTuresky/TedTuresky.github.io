@@ -3,7 +3,7 @@ layout: katie-home
 title: "Home"
 ---
 
-<span style="margin-left:50px; margin-right:50px">I am a developmental cognitive neuroscientist at [Boston Children's Hospital/Harvard Medical School](https://hms.harvard.edu/affiliates/boston-childrens-hospital). I research the impact of early life adversity on brain development using structural and functional MRI techniques.</span>
+<span class="margin-left:50px; margin-right:50px">I am a developmental cognitive neuroscientist at [Boston Children's Hospital/Harvard Medical School](https://hms.harvard.edu/affiliates/boston-childrens-hospital). I research the impact of early life adversity on brain development using structural and functional MRI techniques.</span>
 
 <!--"font-weight: bold; font-size:1em;"-->
 <!-- <p style="margin-left: 50px" style="margin-right: 50px">I am a developmental cognitive neuroscientist at [Boston Children's Hospital/Harvard Medical School](https://hms.harvard.edu/affiliates/boston-childrens-hospital). I research the impact of early life adversity on brain development using structural and functional MRI techniques.</p>  -->
