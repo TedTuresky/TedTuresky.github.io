@@ -8,3 +8,9 @@ I am a developmental cognitive neuroscientist at [Boston Children's Hospital/Har
 <!--"font-weight: bold; font-size:1em;"-->
 
 Please view my CV [here](pdfs/TKT_cv_2019f-elec.pdf).
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYxOTc0MjMyOCwxODcwOTgyMzI2LDc4Nz
+Q2NjY0N119
+-->
