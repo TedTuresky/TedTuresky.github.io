@@ -1,5 +1,5 @@
 ---
-layout: katie-home
+layout: tkt-home
 title: "Home"
 ---
 
