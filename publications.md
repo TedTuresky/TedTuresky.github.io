@@ -23,7 +23,7 @@ title: "Publications"
 
 ##### Seydell-Greenwald A, Leaver AM, Turesky TK, Morgan S, Kim HJ, Rauschecker JP (2012) Functional MRI evidence for a role of ventral prefrontal cortex in tinnitus, Brain Research 1485, 22-39. [PDF](pdfs/Seydell-Greenwald_etal,2012.pdf)
 
-##### Leaver AM, Seydell-Greenwald A, Turesky TK, Morgan S, Kim HJ, Rauschecker JP (2012) Cortico-limbic morphology separates tinnitus from tinnitus distress, Frontiers in Systems Neuroscience 6, 21. [PDF](pdfs/Leaver_etal,2012)
+##### Leaver AM, Seydell-Greenwald A, Turesky TK, Morgan S, Kim HJ, Rauschecker JP (2012) Cortico-limbic morphology separates tinnitus from tinnitus distress, Frontiers in Systems Neuroscience 6, 21. [PDF](pdfs/Leaver_etal,2012.pdf)
 
 
 
