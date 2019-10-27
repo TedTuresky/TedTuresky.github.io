@@ -12,5 +12,5 @@ Task-evoked activation, Functional connectivity (seed-based and independent comp
 <span style="font-weight: bold; font-size:1em;">Languages</span>  
 MATLAB, Bash (Unix Shell), HTML  
 
-<span style="font-weight: bold; font-size:1em;">Toolkits</span>  
+<span style="font-weight: bold; font-size:1em;">Tools</span>  
 AFQ, ANTs, Art, BrainVoyager, CONN, FreeSurfer, FSL, GingerALE, Jupyter Notebook, Marsbar, REX, scikit-learn, SPM, VBM
