@@ -5,7 +5,6 @@ title: "Projects"
 
 [Bangladesh Early Adversity Neuroimaging (BEAN) Project](https://www.lcn-bean.org/)  
 **Summary**: BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.  
-**Collaborators**: Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Wanze Xie, Laura Pirazzoli, William Petri, Sarah Jensen, Rashidul Haque and Shahria Hafiz Kakon, Nazrul Islam, Sean Deoni, Richard Aslin
 
 
 [BabyBOLD Project](https://www.gaablab.com/babybold-study)  
