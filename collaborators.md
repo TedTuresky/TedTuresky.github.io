@@ -14,7 +14,9 @@ Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jen
 <span style="font-weight: bold; font-size:1em;">Nazrul Islam</span>, National Institutes of Neurosciences Hospital, Bangladesh  
 <span style="font-weight: bold; font-size:1em;">Sean Deoni</span>, Brown University   
 <span style="font-weight: bold; font-size:1em;">Richard Aslin</span>, Yale University   
-<span style="font-weight: bold; font-size:1em;">Lauren Emberson</span>, Princeton University
+<span style="font-weight: bold; font-size:1em;">Lauren Emberson</span>, Princeton University  
+<span style="font-weight: bold; font-size:1em;">Sandra and Joseph Jacobson</span>, Wayne State University
+
 
 <!--
 Sara Sanchez-Alonso, Yale University  
