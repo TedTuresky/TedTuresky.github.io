@@ -4,15 +4,7 @@ title: "Collaborators"
 ---
 
 <span style="font-weight: bold; font-size:1em;">Boston Children's Hospital and Harvard Medical School Collaborators</span>  
-Nadine Gaab (Post-Doctoral Advisor)   
-Charles Nelson  
-Xi Yu  
-Dana Sury Barot  
-Jennifer Zuk  
-Wanze Xie  
-Laura Pirazzoli  
-Borjan Gagoski  
-Jennifer Vaughn  
+Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jennifer Zuk, Wanze Xie, Laura Pirazzoli, Borjan Gagoski, Jennifer Vaughn  
 
   <br/>
   
