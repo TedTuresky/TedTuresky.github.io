@@ -8,13 +8,13 @@ Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jen
 
   <br/>
   
-<span style="font-weight: bold; font-size:1em;">University of Virginia:</span> William Petri  
-<span style="font-weight: bold; font-size:1em;">Boston College:</span> Sarah Jensen  
-<span style="font-weight: bold; font-size:1em;">International Centre for Diarrhoeal Disease Research, Bangladesh:</span> Rashidul Haque and Shahria Hafiz Kakon  
-<span style="font-weight: bold; font-size:1em;">National Institutes of Neurosciences Hospital, Bangladesh:</span> Nazrul Islam  
-<span style="font-weight: bold; font-size:1em;">Brown University:</span> Sean Deoni  
-<span style="font-weight: bold; font-size:1em;">Yale University</span> Richard Aslin  
-<span style="font-weight: bold; font-size:1em;">Princeton University</span> Lauren Emberson  
+<span style="font-weight: bold; font-size:1em;">William Petri</span>, University of Virginia  
+<span style="font-weight: bold; font-size:1em;">Sarah Jensen</span>, Boston College  
+<span style="font-weight: bold; font-size:1em;">Rashidul Haque and Shahria Hafiz Kakon</span>, International Centre for Diarrhoeal Disease Research, Bangladesh  
+<span style="font-weight: bold; font-size:1em;">Nazrul Islam</span>, National Institutes of Neurosciences Hospital, Bangladesh  
+<span style="font-weight: bold; font-size:1em;">Sean Deoni</span>, Brown University   
+<span style="font-weight: bold; font-size:1em;">Richard Aslin</span>, Yale University   
+<span style="font-weight: bold; font-size:1em;">Lauren Emberson</span>, Princeton University
 
 <!--
 Sara Sanchez-Alonso, Yale University  
