@@ -9,12 +9,10 @@ title: "Projects"
 
 [BabyBOLD Project](https://www.gaablab.com/babybold-study)  
 **Summary**: BabyBOLD examines the brain bases of reading across infancy, toddler-age, and preschool-age to differentiate developmental trajectories of children with and without familial risk for dyslexia. Structural, functional, and diffusion MRI techniques were collected for all participants. This study is supported by the National Institute of Child Health and Human Development.  
-**Collaborators**: Xi Yu, Dana Sury Barot, Jennifer Zuk, Jolijn Vanderauwera, Borjan Gagoski, Lilla Zollei
 
 
 [Fetal Alcohol Syndrome (FAS) Project in South Africa](http://grantome.com/grant/NIH/U01-AA023503-03)  
 **Summary**: FAS investigates the impact of prenatal alcohol exposure on brain substrates of reading using structural, functional, and diffusion MRI methods. All measures were collected in South Africa.  This study is supported by the National Institute of Alcohol Abuse and Alcoholism.
-**Collaborators**: Sandra and Joseph Jacobson
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxOTc0MjMyOCwxODcwOTgyMzI2LDc4Nz
