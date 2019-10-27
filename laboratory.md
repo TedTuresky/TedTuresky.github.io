@@ -7,7 +7,7 @@ title: "Laboratory Skills"
 Structural MRI, Block- and event-related functional MRI (fMRI), Resting-state fMRI, Diffusion tensor imaging  
 
 <span style="font-weight: bold; font-size:1em;">Data Processing Techniques</span>  
-Task-evoked activation, Functional connectivity (seed-based and independent component analysis), Anatomical connectivity (fiber tractography), Infant tissue segmentation and normalization, Quantitative meta-analysis, Power spectrum analysis  
+Task-evoked activation, Functional connectivity (seed-based and independent component analysis), Anatomical connectivity, Infant tissue segmentation and normalization, Quantitative meta-analysis, Power spectrum analysis  
 
 <span style="font-weight: bold; font-size:1em;">Languages</span>  
 MATLAB, Bash (Unix Shell), HTML  
