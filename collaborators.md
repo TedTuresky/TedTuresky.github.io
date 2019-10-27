@@ -16,20 +16,6 @@ Sean Deoni . Brown University
 Richard Aslin . Yale University   
 Lauren Emberson . Princeton University  
 Sandra and Joseph Jacobson . Wayne State University  
-  
-  
-  
-  
-  
-<span style="font-weight: bold; font-size:1em;">William Petri</span>, University of Virginia  
-<span style="font-weight: bold; font-size:1em;">Sarah Jensen</span>, Boston College  
-<span style="font-weight: bold; font-size:1em;">Rashidul Haque and Shahria Hafiz Kakon</span>, International Centre for Diarrhoeal Disease Research, Bangladesh  
-<span style="font-weight: bold; font-size:1em;">Nazrul Islam</span>, National Institutes of Neurosciences Hospital, Bangladesh  
-<span style="font-weight: bold; font-size:1em;">Sean Deoni</span>, Brown University   
-<span style="font-weight: bold; font-size:1em;">Richard Aslin</span>, Yale University   
-<span style="font-weight: bold; font-size:1em;">Lauren Emberson</span>, Princeton University  
-<span style="font-weight: bold; font-size:1em;">Sandra and Joseph Jacobson</span>, Wayne State University
-
 
 <!--
 Sara Sanchez-Alonso, Yale University  
