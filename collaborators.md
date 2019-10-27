@@ -8,6 +8,19 @@ Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jen
 
   <br/>
   
+William Petri, University of Virginia  
+Sarah Jensen, Boston College  
+Rashidul Haque and Shahria Hafiz Kakon, International Centre for Diarrhoeal Disease Research, Bangladesh  
+Nazrul Islam, National Institutes of Neurosciences Hospital, Bangladesh  
+Sean Deoni, Brown University   
+Richard Aslin, Yale University   
+Lauren Emberson, Princeton University  
+Sandra and Joseph Jacobson, Wayne State University  
+  
+  
+  
+  
+  
 <span style="font-weight: bold; font-size:1em;">William Petri</span>, University of Virginia  
 <span style="font-weight: bold; font-size:1em;">Sarah Jensen</span>, Boston College  
 <span style="font-weight: bold; font-size:1em;">Rashidul Haque and Shahria Hafiz Kakon</span>, International Centre for Diarrhoeal Disease Research, Bangladesh  
