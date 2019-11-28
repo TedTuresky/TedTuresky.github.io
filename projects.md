@@ -1,11 +1,11 @@
 ---
-layout: tkt-project
+layout: katie-home
 title: "Projects"
 ---
 
 [Bangladesh Early Adversity Neuroimaging (BEAN) Project](https://www.lcn-bean.org/)  
 **Summary**: BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.  
-
+![BeanLogo](/images/bean_logo.jpg "A cute kitten")
 
 [BabyBOLD Project](https://www.gaablab.com/babybold-study)  
 **Summary**: BabyBOLD examines the brain bases of reading across infancy, toddler-age, and preschool-age to differentiate developmental trajectories of children with and without familial risk for dyslexia. Structural, functional, and diffusion MRI techniques were collected for all participants. This study is supported by the National Institute of Child Health and Human Development.  
