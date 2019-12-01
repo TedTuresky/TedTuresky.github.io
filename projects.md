@@ -8,7 +8,7 @@ title: "Projects"
   <br/>
 
 
-<img align="left" src="/images/jason.jpg" width="120" height="120" hspace="20" />[BabyBOLD Project](https://www.gaablab.com/babybold-study)  
+<img align="left" src="/images/jason.jpg" width="130" height="130" hspace="20" />[BabyBOLD Project](https://www.gaablab.com/babybold-study)  
 **Summary**: BabyBOLD examines the brain bases of reading across infancy, toddler-age, and preschool-age to differentiate developmental trajectories of children with and without familial risk for dyslexia. Structural, functional, and diffusion MRI techniques were collected for all participants. This study is supported by the National Institute of Child Health and Human Development.  
   <br/>
 
