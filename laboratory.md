@@ -1,6 +1,6 @@
 ---
 layout: katie-home
-title: "Lab Skills"
+title: "Laboratory Skills"
 ---
 
 <img align="right" src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" />
