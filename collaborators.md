@@ -3,6 +3,8 @@ layout: katie-home
 title: "Collaborators"
 ---
 
+<img align="left" src="/images/Boston_Children's_Hospital_logo.svg.png" width="120" height="120" hspace="20" />
+<img align="right" src="/images/Boston_Children's_Hospital_logo.svg.png" width="120" height="120" hspace="20" />
 <span style="font-weight: bold; font-size:1em;">Boston Children's Hospital and Harvard Medical School</span>  
 Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jennifer Zuk, Wanze Xie, Laura Pirazzoli, Borjan Gagoski, Jennifer Vaughn, Jolijn Vanderauwera  
 
