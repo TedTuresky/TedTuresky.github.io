@@ -2,9 +2,11 @@
 layout: katie-home
 title: "Laboratory Skills"
 ---
+<figure class="half" style="display:flex">
+  <img src="/images/bash_term.png" width="120" height="120" hspace="20" />
+  <img src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" />
+</figure>
 
-<img align="right" src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" />
-<img src="/images/bash_term.png" width="120" height="120" hspace="20" />
 <br/>
 
 <span style="font-weight: bold; font-size:1em;">Magnetic Resonance Imaging (MRI) Modalities</span>  
