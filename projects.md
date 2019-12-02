@@ -4,12 +4,12 @@ title: "Projects"
 ---
 
 <img align="right" src="/images/bean_logo_alt2b.png" width="120" height="120" hspace="20" />[Bangladesh Early Adversity Neuroimaging (BEAN) Project](https://www.lcn-bean.org/)    
-**Summary**: <div style="text-align: justify">BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.</div>  
+**Summary**: <p style="text-align: justify">BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.</p>  
   <br/>
 
 
 <img align="left" src="/images/jason.jpg" width="130" height="130" hspace="20" />[BabyBOLD Project](https://www.gaablab.com/babybold-study)  
-**Summary**: <div style="text-align: justify">BabyBOLD examines the brain bases of reading across infancy, toddler-age, and preschool-age to differentiate developmental trajectories of children with and without familial risk for dyslexia. Structural, functional, and diffusion MRI techniques were collected for all participants. This study is supported by the National Institute of Child Health and Human Development.</div>  
+**Summary**: BabyBOLD examines the brain bases of reading across infancy, toddler-age, and preschool-age to differentiate developmental trajectories of children with and without familial risk for dyslexia. Structural, functional, and diffusion MRI techniques were collected for all participants. This study is supported by the National Institute of Child Health and Human Development. 
   <br/>
 
 
