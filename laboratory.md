@@ -2,8 +2,13 @@
 layout: katie-home
 title: "Laboratory Skills"
 ---
-  
-<img class="center" src="/images/bash_term.png" width="120" height="120" hspace="20" />
+ <style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
+<img class="aligncenter" src="/images/bash_term.png" width="120" height="120" hspace="20" />
 <img src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" />
 <br/>
 
