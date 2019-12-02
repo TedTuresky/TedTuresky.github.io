@@ -4,8 +4,7 @@ title: "Projects"
 ---
 
 <img align="right" src="/images/bean_logo_alt2b.png" width="120" height="120" hspace="20" />[Bangladesh Early Adversity Neuroimaging (BEAN) Project](https://www.lcn-bean.org/)    
-**Summary**: 
-<p style="text-align: justify">BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.</p>  
+**Summary**: BEAN addresses the question of *How does early exposure to adversity affect brain and subsequent cognitive development?* in a cohort of infants and children growing up in Dhaka, Bangladesh. As an urban setting, Dhaka can confer severe biological and psychosocial hazards, including infection, malnutrition, maternal stress. All demographic, psychometric, and neuroimaging data were collected in Bangladesh. This study is supported by the Bill and Melinda Gates Foundation.  
   <br/>
 
 
@@ -21,4 +20,5 @@ title: "Projects"
 eyJoaXN0b3J5IjpbLTYxOTc0MjMyOCwxODcwOTgyMzI2LDc4Nz
 Q2NjY0N119
 ![BeanLogo](/images/bean_logo.jpg)
+<p style="text-align: justify">
 -->
