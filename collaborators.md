@@ -10,7 +10,7 @@ title: "Collaborators"
 Nadine Gaab (Post-Doctoral Advisor), Charles Nelson, Xi Yu, Dana Sury Barot, Jennifer Zuk, Wanze Xie, Laura Pirazzoli, Borjan Gagoski, Jennifer Vaughn, Jolijn Vanderauwera  
 
   <br/>
-<p style="text-align:center;"><img align="middle" src="/images/1200px-Harvard_Medical_School_shield.svg.png" width="12%" height="12%" hspace="15" /><img align="middle" src="/images/BCHlogomotto_primary_blue-4C.png" width="12%" height="12%" hspace="15" /></p>
+<p style="text-align:center;"><img align="middle" src="/images/BCHlogomotto_primary_blue-4C.png" width="12%" height="12%" hspace="15" /><img align="middle" src="/images/1200px-Harvard_Medical_School_shield.svg.png" width="12%" height="12%" hspace="15" /></p>
   <br/>
   
 William Petri . University of Virginia  
