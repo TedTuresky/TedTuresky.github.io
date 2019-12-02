@@ -3,7 +3,7 @@ layout: katie-home
 title: "Laboratory Skills"
 ---
 
-<p style="text-align:center;"><img src="/images/bash_term.png" width="120" height="120" hspace="20" /><img src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" /></p>
+<p style="text-align:center;"><img align="middle" src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" /><img align="middle" src="/images/bash_term.png" width="120" height="120" hspace="20" /></p>
 
 <br/>
 
