@@ -21,6 +21,9 @@ Sean Deoni . Brown University
 Richard Aslin . Yale University   
 Lauren Emberson . Princeton University  
 Sandra and Joseph Jacobson . Wayne State University  
+  <br/>
+
+<p>Thank you to <a href="http://www.kathrynschuler.com/">Kathryn Schuler</a> for the website template</p>
 
 <!--
 Sara Sanchez-Alonso, Yale University  
