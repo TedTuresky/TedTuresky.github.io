@@ -4,10 +4,6 @@ header
   justify-content: space-between
   align-items: center
   //width: calc(100vw - 100px)
-  @media all and (max-width: 500px)
-      flex-direction: column
-      height: calc(100vh - 100px)
-
 
   nav > *
     margin: 0 0.8em
@@ -17,3 +13,21 @@ header
 
   nav > :last-child
     margin-right: 0
+
+    
+  @media all and (max-width: 500px)
+    header
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-between
+    align-items: center
+    flex-direction: column
+
+    nav > *
+      margin: 0 0.8em
+    
+    nav > :first-child
+      margin-left: 0
+
+    nav > :last-child
+      margin-right: 0
