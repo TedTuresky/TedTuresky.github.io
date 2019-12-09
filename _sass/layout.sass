@@ -3,7 +3,7 @@ header
   flex-wrap: wrap
   justify-content: space-between
   align-items: center
-  width: calc(100vw - 100px)
+  //width: calc(100vw - 100px)
 
   nav > *
     margin: 0 0.8em
@@ -13,3 +13,8 @@ header
 
   nav > :last-child
     margin-right: 0
+
+@media all and (max-width: 500px)
+  header
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column
