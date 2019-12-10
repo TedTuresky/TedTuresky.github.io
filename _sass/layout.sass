@@ -14,19 +14,14 @@ header
     margin-right: 0
 
     
-@media (max-width: 500px)
-  header
-    display: flex
-    flex-wrap: wrap
-    flex-direction: column
-    justify-content: space-between
-    align-items: center
+@media all and (max-width: 500px) {
+  header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
     
     nav > *
       margin: 0 2em
-      
-    nav > :first-child
-      margin-left: 0
-      
-    nav > :last-child
-      margin-right: 0
