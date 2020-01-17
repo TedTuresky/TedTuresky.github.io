@@ -5,13 +5,13 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
-##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (invited; under review). 
-
 ##### Smith C, Turesky TK, Turesky EF, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
+
+##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (in press). 
 
 ##### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Haque R, Kakon SH, Islam N, Petri WA, Gagoski B, Nelson CA, Gaab N (2019) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants: a feasibility and pilot study, Developmental Science e12841. [PDF](pdfs/Turesky_etal,2019.pdf)
 
-##### Gaab N, Turesky TK, Sanfilippino J (2019) Early identification of children at-risk for developmental dyslexia and reading impairments: neurobiology, screening, evidence-based response to screening, and the use of educational technology (chapter in book). McCardle P (Ed.). Dyslexia. (in press).
+##### Gaab N, Turesky TK, Sanfilippino J (2019) Early identification of children at-risk for developmental dyslexia and reading impairments: neurobiology, screening, evidence-based response to screening, and the use of educational technology (chapter in book). Washington, Compton, McCardle P (Ed.). Dyslexia. [PDF](pdfs/Gaab_etal,2019.pdf).
 
 ##### Turesky TK, Olulade OA, Luetje MM, Eden GF (2017) An fMRI study of the motor system in children and young adults. Human Brain Mapping 39(8), 3203-15. [PDF](pdfs/Turesky_etal,2017.pdf)
 
