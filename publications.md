@@ -5,7 +5,7 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
-##### Smith C, Turesky TK, Turesky EF, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
+##### Smith C, Turesky EF, Turesky TK, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
 
 ##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage (in press). 
 
