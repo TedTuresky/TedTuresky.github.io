@@ -23,7 +23,7 @@ Lauren Emberson . Princeton University
 Sandra and Joseph Jacobson . Wayne State University  
   <br/>
 
-<p>Thank you to <a href="http://www.kathrynschuler.com/">Kathryn Schuler</a> for the website template</p>
+<p>Thank you to <a href="http://www.kathrynschuler.com/">Kathryn Schuler</a> for the sample website code</p>
 
 <!--
 Sara Sanchez-Alonso, Yale University  
