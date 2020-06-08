@@ -1,9 +1,3 @@
-# Notes:
-fix collaborators page 
-
-add or remove lab skills - some experience with python. how do I add statistical methods - e.g., mediation, moderation, machine-learning?? - to the laboratory page.
-
-
 # Contrast
 
 ![screenshot](https://user-images.githubusercontent.com/4943215/50294425-2da5bf80-0476-11e9-8a27-8c59a7192cf6.png)
