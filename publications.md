@@ -3,7 +3,7 @@ layout: katie-home
 title: "Publications"
 ---
 
-<span style="font-weight: bold; font-size:5.1em;">Peer-Reviewed Papers</span>  
+<span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
 ##### Smith C, Turesky EF, Turesky TK, Virtual team leadership: trust building and conflict management, Organizational Management Journal (under review).
 
