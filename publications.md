@@ -11,7 +11,7 @@ title: "Publications"
 
 ##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K, Intergenerational Transmission of Cortical Sulcal Patterns. (under review at Cerebral Cortex).
 
-##### Smith C, Turesky EF, Turesky TK, Virtual team leadership: trust building and conflict management (under review at Organizational Management Journal).
+##### Smith C, Turesky EF, Turesky TK, Virtual team leadership: trust building and conflict management, Organizational Management Journal (accepted).
 
 ##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage 210, 116540. [PDF](pdfs/Turesky_etal,2020.pdf). 
 
