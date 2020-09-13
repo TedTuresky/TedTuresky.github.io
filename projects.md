@@ -15,7 +15,7 @@ title: "Projects"
 
 
 [Fetal Alcohol Syndrome (FAS) Project in South Africa](http://grantome.com/grant/NIH/U01-AA023503-03)  
-**Summary**: FAS investigates the impact of prenatal alcohol exposure on brain substrates of reading using structural, functional, and diffusion MRI methods. All measures were collected in South Africa.  This study is supported by the National Institute of Alcohol Abuse and Alcoholism.
+**Summary**: This project investigates the impact of prenatal alcohol exposure on brain substrates of reading using structural, functional, and diffusion MRI methods. All measures were collected in South Africa.  This study is supported by the National Institute of Alcohol Abuse and Alcoholism.
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTYxOTc0MjMyOCwxODcwOTgyMzI2LDc4Nz
