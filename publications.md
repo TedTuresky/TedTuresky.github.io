@@ -9,7 +9,7 @@ title: "Publications"
 
 ##### Turesky TK, Luetje M, Eden GF, An fMRI Study of Finger Movements in Children with and without Dyslexia Running Title: Finger Movements in Dyslexia (under review at Cerebral Cortex). [PDF](pdfs/Turesky_etal,2020b.pdf).
 
-##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K, Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020b.pdf).
+##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K, Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020.pdf).
 
 ##### Turesky EF, Smith C, Turesky TK, A Call to Action for Virtual Team Leaders: Practitioner Perspectives on Trust, Conflict, and the Need for Organizational Support, Organizational Management Journal Vol. ahead-of-print. [PDF](pdfs/TureskyE_etal,2020.pdf).
 
