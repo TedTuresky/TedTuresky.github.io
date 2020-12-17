@@ -5,9 +5,9 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
-##### Turesky TK, Vanderauwera J, Gaab N, Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life (under review at Developmental Cognitive Neuroscience). [PDF](pdfs/Turesky_etal,2020c2.pdf).
-
 ##### Turesky TK, Luetje M, Eden GF, An fMRI Study of Finger Movements in Children with and without Dyslexia Running Title: Finger Movements in Dyslexia (under review at Cerebral Cortex). [PDF](pdfs/Turesky_etal,2020b.pdf).
+
+##### Turesky TK, Vanderauwera J, Gaab N, Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life (under review at Developmental Cognitive Neuroscience). 47, 100893. [PDF](pdfs/Turesky_etal,2020c.pdf).
 
 ##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K, Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020.pdf).
 
