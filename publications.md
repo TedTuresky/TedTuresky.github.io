@@ -31,7 +31,7 @@ title: "Publications"
 
 ##### Leaver AM, Seydell-Greenwald A, Turesky TK, Morgan S, Kim HJ, Rauschecker JP (2012) Cortico-limbic morphology separates tinnitus from tinnitus distress, Frontiers in Systems Neuroscience 6, 21. [PDF](pdfs/Leaver_etal,2012.pdf).  
 
-  
+<br/>  
 
 <span style="font-weight: bold; font-size:1.1em;">Conference Posters and Presentations</span>  
 
@@ -73,7 +73,7 @@ title: "Publications"
 
 ##### Turesky TK, Leaver AM, Seydell-Greenwald A, Rauschecker JP (2012) Resting-state functional connectivity reveals auditory-limbic network in tinnitus, Advances and Perspectives in Auditory Neurophysiology Meeting (New Orleans, LA).  
 
-  
+<br/>  
 
 <span style="font-weight: bold; font-size:1.1em;">Conference Posters and Presentations</span>  
 
