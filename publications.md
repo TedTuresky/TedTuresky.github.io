@@ -75,7 +75,7 @@ title: "Publications"
 
 <br/>  
 
-<span style="font-weight: bold; font-size:1.1em;">Conference Posters and Presentations</span>  
+<span style="font-weight: bold; font-size:1.1em;">Non-Peer-Reviewed Publications</span>  
 
 ##### Turesky TK (2016) It’s all about support, Tinnitus Today Magazine, American Tinnitus Association, Portland, OR.
 
