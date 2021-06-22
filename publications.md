@@ -5,11 +5,15 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
+##### Turesky TK, Shama T, Kakon SH, Haque R, Islam N, Someshwar A, Petri WA, Nelson CA, Gaab N, Brain morphometry and diminished physical growth in Bangladeshi children growing up in extreme poverty: a longitudinal study [Preprint](https://www.biorxiv.org/content/10.1101/2021.02.24.432797v1).
+
 ##### Turesky TK, Luetje M, Eden GF, An fMRI Study of Finger Movements in Children with and without Dyslexia Running Title: Finger Movements in Dyslexia (under review at Cerebral Cortex). [PDF](pdfs/Turesky_etal,2020b.pdf).
 
-##### Turesky TK, Vanderauwera J, Gaab N, Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life (under review at Developmental Cognitive Neuroscience). 47, 100893. [PDF](pdfs/Turesky_etal,2020c.pdf).
+##### Zuk J, Yu X, Sanfilippo J, Figuccio MJ, Dunstan J, Carruthers C, Sideridis G, Turesky TK, Gagoski B, Grant PE, Gaab N (2021) White matter in infancy is prospectively associated with language outcomes in kindergarten, Developmental Cognitive Neuroscience 50, 100973. [PDF](pdfs/Zuk_etal,2021.pdf).
+ 
+##### Turesky TK, Vanderauwera J, Gaab N (2020) Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life (under review at Developmental Cognitive Neuroscience). 47, 100893. [PDF](pdfs/Turesky_etal,2020c.pdf).
 
-##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K, Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K (2020) Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020.pdf).
 
 ##### Turesky EF, Smith C, Turesky TK, A Call to Action for Virtual Team Leaders: Practitioner Perspectives on Trust, Conflict, and the Need for Organizational Support, Organizational Management Journal Vol. ahead-of-print. [PDF](pdfs/TureskyE_etal,2020.pdf).
 
