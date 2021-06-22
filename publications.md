@@ -13,7 +13,7 @@ title: "Publications"
  
 ##### Turesky TK, Vanderauwera J, Gaab N (2020) Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life, Developmental Cognitive Neuroscience 47, 100893. [PDF](pdfs/Turesky_etal,2020c.pdf).
 
-##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K (2020) Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 31(4), 1888–1897. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K (2020) Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 31(4), 1888–97. [PDF](pdfs/Ahtam_etal,2020.pdf).
 
 ##### Turesky EF, Smith C, Turesky TK, A Call to Action for Virtual Team Leaders: Practitioner Perspectives on Trust, Conflict, and the Need for Organizational Support, Organizational Management Journal 17(4/5), 185-206. [PDF](pdfs/TureskyE_etal,2020.pdf).
 
@@ -25,7 +25,7 @@ title: "Publications"
 
 ##### Turesky TK, Olulade OA, Luetje MM, Eden GF (2017) An fMRI study of the motor system in children and young adults. Human Brain Mapping 39(8), 3203-15. [PDF](pdfs/Turesky_etal,2017.pdf).
 
-##### Turesky TK, Turkeltaub PE, Eden GF (2016) An activation likelihood estimation meta-analysis study of simple motor movements in older and young adults, Frontiers in Aging Neuroscience 8(238), 1-15. [PDF](pdfs/Turesky_etal,2016.pdf).
+##### Turesky TK, Turkeltaub PE, Eden GF (2016) An activation likelihood estimation meta-analysis study of simple motor movements in older and young adults, Frontiers in Aging Neuroscience 8(238), 238. [PDF](pdfs/Turesky_etal,2016.pdf).
 
 ##### Leaver AM\*, Turesky TK\*, Seydell-Greenwald A, Morgan S, Kim HJ, and Rauschecker JP (2016) Intrinsic network activity in tinnitus investigated using functional MRI, Human Brain Mapping 37(8), 2717-35. *equal contributions. [PDF](pdfs/Leaver&Turesky_etal,2016.pdf).
 
