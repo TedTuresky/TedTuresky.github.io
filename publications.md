@@ -9,23 +9,23 @@ title: "Publications"
 
 ##### Turesky TK, Luetje M, Eden GF, An fMRI Study of Finger Movements in Children with and without Dyslexia Running Title: Finger Movements in Dyslexia (under review at Cerebral Cortex). [PDF](pdfs/Turesky_etal,2020b.pdf).
 
-##### Zuk J, Yu X, Sanfilippo J, Figuccio MJ, Dunstan J, Carruthers C, Sideridis G, Turesky TK, Gagoski B, Grant PE, Gaab N (2021) White matter in infancy is prospectively associated with language outcomes in kindergarten, Developmental Cognitive Neuroscience 50, 100973. [PDF](pdfs/Zuk_etal,2021.pdf).
+##### Zuk J, Yu X, Sanfilippo J, Figuccio MJ, Dunstan J, Carruthers C, Sideridis G, Turesky TK, Gagoski B, Grant PE, Gaab N (2021) White matter in infancy is prospectively associated with language outcomes in kindergarten, Developmental Cognitive Neuroscience 50, 1-11. [PDF](pdfs/Zuk_etal,2021.pdf).
  
-##### Turesky TK, Vanderauwera J, Gaab N (2020) Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life (under review at Developmental Cognitive Neuroscience). 47, 100893. [PDF](pdfs/Turesky_etal,2020c.pdf).
+##### Turesky TK, Vanderauwera J, Gaab N (2020) Imaging the rapidly developing brain: Current challenges for MRI studies in the first five years of life, Developmental Cognitive Neuroscience 47, 1-14. [PDF](pdfs/Turesky_etal,2020c.pdf).
 
-##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K (2020) Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 00,1-10. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Ahtam B, Turesky TK, Zollei L, Standish J, Grant PE, Gaab N, Im K (2020) Intergenerational Transmission of Cortical Sulcal Patterns. Cerebral Cortex 31(4), 1888–1897. [PDF](pdfs/Ahtam_etal,2020.pdf).
 
-##### Turesky EF, Smith C, Turesky TK, A Call to Action for Virtual Team Leaders: Practitioner Perspectives on Trust, Conflict, and the Need for Organizational Support, Organizational Management Journal Vol. ahead-of-print. [PDF](pdfs/TureskyE_etal,2020.pdf).
+##### Turesky EF, Smith C, Turesky TK, A Call to Action for Virtual Team Leaders: Practitioner Perspectives on Trust, Conflict, and the Need for Organizational Support, Organizational Management Journal 17(4/5), 185-206. [PDF](pdfs/TureskyE_etal,2020.pdf).
 
-##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage 210, 116540. [PDF](pdfs/Turesky_etal,2020.pdf). 
+##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N, Relating anthropometric indicators to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, NeuroImage 210, 1-10. [PDF](pdfs/Turesky_etal,2020.pdf). 
 
-##### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Haque R, Kakon SH, Islam N, Petri WA, Gagoski B, Nelson CA, Gaab N (2019) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants: a feasibility and pilot study, Developmental Science e12841. [PDF](pdfs/Turesky_etal,2019.pdf).
+##### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Haque R, Kakon SH, Islam N, Petri WA, Gagoski B, Nelson CA, Gaab N (2019) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants: a feasibility and pilot study, Developmental Science 22(5), 1-17. [PDF](pdfs/Turesky_etal,2019.pdf).
 
-##### Gaab N, Turesky TK, Sanfilippino J (2019) Early identification of children at-risk for developmental dyslexia and reading impairments: neurobiology, screening, evidence-based response to screening, and the use of educational technology (chapter in book). Washington, Compton, McCardle P (Ed.). Dyslexia. [PDF](pdfs/Gaab_etal-chapter.pdf).
+##### Gaab N, Turesky TK, Sanfilippino J (2019) Early identification of children at-risk for developmental dyslexia and reading impairments: neurobiology, screening, evidence-based response to screening, and the use of educational technology (chapter in book). Washington, Compton, McCardle P (Ed.). Dyslexia. Brookes Publishing. [PDF](pdfs/Gaab_etal-chapter.pdf).
 
 ##### Turesky TK, Olulade OA, Luetje MM, Eden GF (2017) An fMRI study of the motor system in children and young adults. Human Brain Mapping 39(8), 3203-15. [PDF](pdfs/Turesky_etal,2017.pdf).
 
-##### Turesky TK, Turkeltaub PE, Eden GF (2016) An activation likelihood estimation meta-analysis study of simple motor movements in older and young adults, Frontiers in Aging Neuroscience 8, 238. [PDF](pdfs/Turesky_etal,2016.pdf).
+##### Turesky TK, Turkeltaub PE, Eden GF (2016) An activation likelihood estimation meta-analysis study of simple motor movements in older and young adults, Frontiers in Aging Neuroscience 8(238), 1-15. [PDF](pdfs/Turesky_etal,2016.pdf).
 
 ##### Leaver AM\*, Turesky TK\*, Seydell-Greenwald A, Morgan S, Kim HJ, and Rauschecker JP (2016) Intrinsic network activity in tinnitus investigated using functional MRI, Human Brain Mapping 37(8), 2717-35. *equal contributions. [PDF](pdfs/Leaver&Turesky_etal,2016.pdf).
 
