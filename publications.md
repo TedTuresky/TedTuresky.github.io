@@ -5,7 +5,7 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
-##### Turesky TK, Shama T, Kakon SH, Haque R, Islam N, Someshwar A, Petri WA, Nelson CA, Gaab N, Brain morphometry and diminished physical growth in Bangladeshi children growing up in extreme poverty: a longitudinal study [Preprint](https://www.biorxiv.org/content/10.1101/2021.02.24.432797v1).
+##### Turesky TK, Shama T, Kakon SH, Haque R, Islam N, Someshwar A, Petri WA, Nelson CA, Gaab N, Brain morphometry and diminished physical growth in Bangladeshi children growing up in extreme poverty: a longitudinal study. [Preprint](https://www.biorxiv.org/content/10.1101/2021.02.24.432797v1).
 
 ##### Turesky TK, Luetje M, Eden GF, An fMRI Study of Finger Movements in Children with and without Dyslexia Running Title: Finger Movements in Dyslexia (under review at Cerebral Cortex). [PDF](pdfs/Turesky_etal,2020b.pdf).
 
