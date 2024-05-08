@@ -13,9 +13,9 @@ title: "Publications"
 
 ##### Spann MN, Wisnowski JL, HBCD Phase I Scanning Young Populations Working Group, Smyser CD, FIT’NG, Howell B, Dean DC  (2022) The Art, Science, and Secrets of Scanning Young Children, Biological Psychiatry 93(10), 858-860. [PDF](pdfs/Spann_etal,2022.pdf).
 
-##### Turesky TK*, Sanfilippo J*, Zuk J, Ahtam B, Gagoski B, Lee M, Dunstan J, Carruthers C, Vanderauwera J, Yu X, Gaab N  (2022) Home literacy environment shapes white matter in infancy, Brain Structure and Function 227(8), 2633-2645. *equal contributions. [PDF](pdfs/Turesky,Sanfilippo_etal,2022.pdf).
+##### Turesky TK\*, Sanfilippo J\*, Zuk J, Ahtam B, Gagoski B, Lee M, Dunstan J, Carruthers C, Vanderauwera J, Yu X, Gaab N  (2022) Home literacy environment shapes white matter in infancy, Brain Structure and Function 227(8), 2633-2645. *equal contributions. [PDF](pdfs/Turesky,Sanfilippo_etal,2022.pdf).
 
-##### Ozernov-Palchik O*, Sury D*, Turesky TK, Yu X, Gaab N  (2022) Longitudinal changes in brain activation underlying reading fluency, Human Brain Mapping 44(1), 1-17. *equal contributions. [PDF](pdfs/Ozernov-Palchik,Sury_etal,2022.pdf).
+##### Ozernov-Palchik O\*, Sury D\*, Turesky TK, Yu X, Gaab N  (2022) Longitudinal changes in brain activation underlying reading fluency, Human Brain Mapping 44(1), 1-17. *equal contributions. [PDF](pdfs/Ozernov-Palchik,Sury_etal,2023.pdf).
 
 ##### Yu X, Dunstan J, Jacobson SW, Molteno CD, Lindinger NM, Turesky TK, Meintjes EM, Jacobson JL, Gaab N  (2022) Distinctive neural correlates of phonological and reading impairment in fetal alcohol-exposed adolescents with and without facial dysmorphology, Neuropsychologia 169, 108188. [PDF](pdfs/Yu_etal,2022b.pdf).
 
