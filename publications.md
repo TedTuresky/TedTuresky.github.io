@@ -5,25 +5,25 @@ title: "Publications"
 
 <span style="font-weight: bold; font-size:1.1em;">Peer-Reviewed Papers</span>  
 
-##### Alex AM, Aguate F, Botteron K, Buss C, Chong YS, Dager SR, Donald KA, Entringer S, Fair DA, Fortier MV, Gaab N, Gilmore JH, Girault JB, Graham AM, Groenewold NA, Hazlett H, Lin W, Meaney MJ, Piven J, Qiu A, Rasmussen JM, Roos A, Schultz RT, Skeide MA, Stein DJ, Styner M, Thompson PM, Turesky TK, Wadhwa PD, Zar HJ, Zöllei L, de Los Campos G, Knickmeyer RC  (2024) A global multicohort study to map subcortical brain development and cognition in infancy and early childhood. Nat Neurosci. 27(1), 176-186. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Alex AM, Aguate F, Botteron K, Buss C, Chong YS, Dager SR, Donald KA, Entringer S, Fair DA, Fortier MV, Gaab N, Gilmore JH, Girault JB, Graham AM, Groenewold NA, Hazlett H, Lin W, Meaney MJ, Piven J, Qiu A, Rasmussen JM, Roos A, Schultz RT, Skeide MA, Stein DJ, Styner M, Thompson PM, Turesky TK, Wadhwa PD, Zar HJ, Zöllei L, de Los Campos G, Knickmeyer RC  (2024) A global multicohort study to map subcortical brain development and cognition in infancy and early childhood. Nat Neurosci. 27(1), 176-186. [PDF](pdfs/Alex_etal,2023b.pdf).
 
-##### Zuk J, Vanderauwera J, Turesky TK, Yu X, Gaab N  (2023) Neurobiological predispositions for musicality: White matter in infancy predicts school-age music aptitude. Dev Sci. 26(5), e13365. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Zuk J, Vanderauwera J, Turesky TK, Yu X, Gaab N  (2023) Neurobiological predispositions for musicality: White matter in infancy predicts school-age music aptitude. Dev Sci. 26(5), e13365. [PDF](pdfs/Zuk_etal,2023.pdf).
 
-##### Turesky TK, Luetje MM, Eden GF  (2023) An fMRI study of finger movements in children with and without dyslexia. Front Neurosci. 17, 1135437. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Turesky TK, Luetje MM, Eden GF  (2023) An fMRI study of finger movements in children with and without dyslexia. Front Neurosci. 17, 1135437. [PDF](pdfs/Turesky_etal,2023.pdf).
 
-##### Spann MN, Wisnowski JL, HBCD Phase I Scanning Young Populations Working Group, Smyser CD, FIT’NG, Howell B, Dean DC  (2022) The Art, Science, and Secrets of Scanning Young Children, Biological Psychiatry 93(10), 858-860. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Spann MN, Wisnowski JL, HBCD Phase I Scanning Young Populations Working Group, Smyser CD, FIT’NG, Howell B, Dean DC  (2022) The Art, Science, and Secrets of Scanning Young Children, Biological Psychiatry 93(10), 858-860. [PDF](pdfs/Spann_etal,2022.pdf).
 
-##### Turesky TK*, Sanfilippo J*, Zuk J, Ahtam B, Gagoski B, Lee M, Dunstan J, Carruthers C, Vanderauwera J, Yu X, Gaab N  (2022) Home literacy environment shapes white matter in infancy, Brain Structure and Function 227(8), 2633-2645. *equal contributions. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Turesky TK*, Sanfilippo J*, Zuk J, Ahtam B, Gagoski B, Lee M, Dunstan J, Carruthers C, Vanderauwera J, Yu X, Gaab N  (2022) Home literacy environment shapes white matter in infancy, Brain Structure and Function 227(8), 2633-2645. *equal contributions. [PDF](pdfs/Turesky,Sanfilippo_etal,2022.pdf).
 
-##### Ozernov-Palchik O*, Sury D*, Turesky TK, Yu X, Gaab N  (2022) Longitudinal changes in brain activation underlying reading fluency, Human Brain Mapping 44(1), 1-17. *equal contributions. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Ozernov-Palchik O*, Sury D*, Turesky TK, Yu X, Gaab N  (2022) Longitudinal changes in brain activation underlying reading fluency, Human Brain Mapping 44(1), 1-17. *equal contributions. [PDF](pdfs/Ozernov-Palchik,Sury_etal,2022.pdf).
 
-##### Yu X, Dunstan J, Jacobson SW, Molteno CD, Lindinger NM, Turesky TK, Meintjes EM, Jacobson JL, Gaab N  (2022) Distinctive neural correlates of phonological and reading impairment in fetal alcohol-exposed adolescents with and without facial dysmorphology, Neuropsychologia 169, 108188. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Yu X, Dunstan J, Jacobson SW, Molteno CD, Lindinger NM, Turesky TK, Meintjes EM, Jacobson JL, Gaab N  (2022) Distinctive neural correlates of phonological and reading impairment in fetal alcohol-exposed adolescents with and without facial dysmorphology, Neuropsychologia 169, 108188. [PDF](pdfs/Yu_etal,2022b.pdf).
 
-##### Pollatou A, Filippi CA, Aydin E, Vaughn K, Thompson D, Korom M, Dufford AJ, Howell B, Zöllei L, Di Martino A, Graham A, Robinson E, FIT’NG, Scheinost C, Spann M  (2022) An ode to Fetal, Infant, and Toddler Neuroimaging: Chronicling early clinical to research applications with MRI, and an introduction to an academic society connecting the field, Developmental Cognitive Neuroscience 54, 101083. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Pollatou A, Filippi CA, Aydin E, Vaughn K, Thompson D, Korom M, Dufford AJ, Howell B, Zöllei L, Di Martino A, Graham A, Robinson E, FIT’NG, Scheinost C, Spann M  (2022) An ode to Fetal, Infant, and Toddler Neuroimaging: Chronicling early clinical to research applications with MRI, and an introduction to an academic society connecting the field, Developmental Cognitive Neuroscience 54, 101083. [PDF](pdfs/Pollatou_etal,2022.pdf).
 
-##### Korom M, Camacho MC, Filippi CA, Licandro R, Moore LA, Dufford A, Zöllei L, Graham AM, Spann M, Howell B, FIT’NG, Shultz S, Scheinost D  (2022)  Dear reviewers: Responses to common reviewer critiques about infant neuroimaging studies, Developmental Cognitive Neuroscience 53, 101055. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Korom M, Camacho MC, Filippi CA, Licandro R, Moore LA, Dufford A, Zöllei L, Graham AM, Spann M, Howell B, FIT’NG, Shultz S, Scheinost D  (2022)  Dear reviewers: Responses to common reviewer critiques about infant neuroimaging studies, Developmental Cognitive Neuroscience 53, 101055. [PDF](pdfs/Korom_etal,2022.pdf).
 
-##### Turesky TK, Shama T, Kakon SH, Haque R, Islam N, Someshwar A, Gagoski B, Petri WA, Nelson CA, Gaab N (2021) Brain morphometry and diminished physical growth in Bangladeshi children growing up in extreme poverty: A longitudinal study. Developmental Cognitive Neuroscience 52, 101029. [PDF](pdfs/Ahtam_etal,2020.pdf).
+##### Turesky TK, Shama T, Kakon SH, Haque R, Islam N, Someshwar A, Gagoski B, Petri WA, Nelson CA, Gaab N (2021) Brain morphometry and diminished physical growth in Bangladeshi children growing up in extreme poverty: A longitudinal study. Developmental Cognitive Neuroscience 52, 101029. [PDF](pdfs/Turesky_etal,2021.pdf).
 
 ##### Zuk J, Yu X, Sanfilippo J, Figuccio MJ, Dunstan J, Carruthers C, Sideridis G, Turesky TK, Gagoski B, Grant PE, Gaab N (2021) White matter in infancy is prospectively associated with language outcomes in kindergarten, Developmental Cognitive Neuroscience 50, 100973. [PDF](pdfs/Zuk_etal,2021.pdf).
  
