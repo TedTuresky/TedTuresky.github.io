@@ -12,10 +12,10 @@ Task-evoked activation, Functional connectivity (seed-based and independent comp
 
 <img align="right" src="/images/bash_term.png" width="120" height="120" hspace="20" />
 <span style="font-weight: bold; font-size:1em;">Languages</span>  
-MATLAB, Bash (Unix Shell), HTML  
+MATLAB, R, Bash (Unix Shell), Python, HTML  
 
 <span style="font-weight: bold; font-size:1em;">Tools</span>  
-AFQ, ANTs, Art, BrainVoyager, CONN, FreeSurfer, FSL, GingerALE, Jupyter Notebook, Marsbar, REX, scikit-learn, SPM, VBM
+AFQ, ANTs, Art, BrainVoyager, CONN, FreeSurfer, FSL, GingerALE, Jupyter Notebook, Marsbar, MRtrix, REX, pyAFQ, pyBabyAFQ, scikit-learn, SPM, VBM
 
 <!--
 <p style="text-align:center;"><img align="middle" src="/images/Skyra-MRI-no-background[1].png" width="120" height="120" hspace="20" /><img align="middle" src="/images/bash_term.png" width="120" height="120" hspace="20" /></p>
