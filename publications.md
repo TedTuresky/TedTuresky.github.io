@@ -53,48 +53,6 @@ title: "Publications"
 
 <br/>  
 
-<span style="font-weight: bold; font-size:1.1em;">Conference Posters and Presentations</span>  
-
-##### Zuk J, Sanfilippo J, Vanderauwera J, Turesky TK, Lee A, Dunstan J, Gagoski B, Grant PE, Gaab N (2020) Evaluating contributions of home literacy environment and white matter organization to emerging language abilities: a longitudinal investigation from infancy to toddlerhood. Society for the Scientific Study of Reading Annual Meeting (Newport Beach, CA; Convention canceled due to COVID-19).
-
-##### Turesky TK, Gagoski B, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N (2020) Frequency characteristics of resting-state BOLD signal in 2-month-old Bangladeshi infants growing up in poverty, Cognitive Neuroscience Society (Boston, MA; virtual).
-
-##### King C, Vanderauwera J, Zuk J, Turesky TK, Raschle N, Gaab N (2020) Structural neural correlates of reading development in children with early language delay. Cognitive Neuroscience Society (Boston, MA; virtual).
-
-##### Lee AM, Vanderauwera J, Turesky TK, Sanfilippo J, Zuk J, Grant PE, Gaab N (2020) Investigating Relationships between Home Literacy Environment, Early Language Skills and White Matter Organization from Infancy to Toddlerhood. Cognitive Neuroscience Society (Boston, MA; virtual).
-
-##### Vanderauwera J, Zuk J, Turesky TK, Lee AM, Dunstan J, Gaab N (2020) Inter- and intrahemispheric white matter organization in relation to language skills in infancy. Cognitive Neuroscience Society (Boston, MA; accepted). 
-
-##### Zuk J, Vanderauwera J, Lee AM, Gonzalez M, Dunstan J, Turesky TK, Rubez D, Yu X, Grant PE, Gaab N (2020) Evaluating predispositions for music training: white matter in infancy relates to music aptitude abilities in preschool. Cognitive Neuroscience Society (Boston, MA; virtual). 
-
-##### Sanfilippo J, Turesky TK, Zuk J, Yu X, Dunstan J, Carruthers C, Gaab N (2019) Toddler language ability is associated with white matter structure and predicted by home environment in infancy, Queen's University School of Medicine Research Showcase (Kingston, ON, CAN).
-
-##### Turesky TK, Xie W, Kumar S, Sliva DD, Gagoski B, Vaughn J, Zöllei L, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N (2019) Relating stunting, underweight, and wasting to brain structure in 2-month-old Bangladeshi infants growing up in poverty: a pilot study, FLUX Conference (New York, NY).
-
-##### Turesky TK, Figuccio M, Yu X, Gonzalez M, Wang Y, Gaab N (2019) Investigating the relationship between brain substrates of phonological processing and white matter properties in preschoolers, New England Research on Dyslexia Society Conference (Cambridge, MA).
-
-##### Sury D, Turesky TK, Yu X (2019) Gaab N Longitudinal changes in neural activation underlying reading fluency during elementary school, New England Research on Dyslexia Society Conference (Cambridge, MA).
-
-##### Koenig E, Turesky TK, Gaab N (2018) Neural correlates of spelling and reading impairments in children: a structural MRI study, Scripps Undergraduate Research Symposium (Claremont, CA).
-
-##### Turesky TK, Jensen S, Kumar S, Yu X, Wang Y, Zollei L, Boyd E, Sanfilippo J, Sliva D, Gagoski B, Haque R, Kakon SH, Islam N, Petri WA, Nelson CA, Gaab N (2018) The relationship between poverty and resting-state functional connectivity in 2-month old Bangladeshi infants, FLUX Conference (Berlin, Germany).
-
-##### Turesky TK, Alkire DR, Andriola DL, Luetje M, Eden GF, A (2017) comparison of true and pseudo resting-state functional connectivity data in children, Organization for Human Brain Mapping Conference (Vancouver, British Columbia).
-
-##### Turesky TK, Olulade OA, Eden GF (2016) An fMRI and fcMRI study of the motor system in children with and without dyslexia, Society for Neuroscience Meeting (San Diego, CA).
-
-##### Turesky TK (2016) The role of the tinnitus support group, Maryland Academy of Audiology Conference (Annapolis, MD).
-
-##### Turesky, TK, Turkeltaub PE, and Eden GF (2015) An ALE meta-analysis of simple motor movements in young and old adults, Organization for Human Brain Mapping Conference (Honolulu, HI).
-
-##### Turesky TK, Olulade OA, Luetje MM, Eden GF (2014) An fMRI study on motor control in the developing brain, Society for Neuroscience Meeting (Washington, DC).
-
-##### Turesky TK, Leaver AM, Seydell-Greenwald A, Rauschecker JP (2014) Auditory-limbic network in tinnitus revealed by resting-state functional connectivity MRI, Tinnitus Research Initiative Conference (Auckland, New Zealand).
-
-##### Turesky TK, Leaver AM, Seydell-Greenwald A, Rauschecker JP (2012) Resting-state functional connectivity reveals auditory-limbic network in tinnitus, Advances and Perspectives in Auditory Neurophysiology Meeting (New Orleans, LA).  
-
-<br/>  
-
 <span style="font-weight: bold; font-size:1.1em;">Non-Peer-Reviewed Publications</span>  
 
 ##### Turesky TK (2016) It’s all about support, Tinnitus Today Magazine, American Tinnitus Association, Portland, OR.
